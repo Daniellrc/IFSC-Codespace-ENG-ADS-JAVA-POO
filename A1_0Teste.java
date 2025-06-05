@@ -1,10 +1,9 @@
 public class A1_0Teste {
-    public static void main(String[] args) {
-        // Declaração de variáveis inteiras e reais
-        int num1 = 10;      // Tipo inteiro (int)
-        double num2 = 10.5;      // Tipo real 
-        // Exibindo os valores das variáveis
-        System.out.println("Esse é o num1 " + num1);
-        System.out.println("Esse é o num2 " + num2);
+public static void main(String [] args) {
+    int numeroInteiro = 10;
+    double numeroReal = 5.75;
+
+    System.out.println("Número Inteiro: " + numeroInteiro);
+    System.out.println("Número Real: " + numeroReal);
     }
 }
